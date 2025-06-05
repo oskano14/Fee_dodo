@@ -1,0 +1,10 @@
+replicate
+requests
+Pillow
+python-dotenv
+requests
+googletrans==4.0.0-rc1
+groq
+time
+ebooklib
+
